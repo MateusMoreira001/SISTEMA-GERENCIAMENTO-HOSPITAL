@@ -15,4 +15,4 @@ Projeto desenvolvido para a disciplina de **Linguagem de Programação I**, impl
 Organizar e otimizar a gestão de recursos hospitalares, garantindo eficiência no agendamento de manutenções e controle de equipamentos.  
 
 ---  
-*🔹 Entrega 4 - Mateus Moreira Pereira*  
+*🔹 CONTÉM: Documentação e o Sistema*  
